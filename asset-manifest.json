@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/proctice-one/static/css/main.f8ef9dbc.chunk.css",
+    "main.js": "/proctice-one/static/js/main.8083cb45.chunk.js",
+    "main.js.map": "/proctice-one/static/js/main.8083cb45.chunk.js.map",
+    "runtime-main.js": "/proctice-one/static/js/runtime-main.6d084b5d.js",
+    "runtime-main.js.map": "/proctice-one/static/js/runtime-main.6d084b5d.js.map",
+    "static/js/2.12d8ee16.chunk.js": "/proctice-one/static/js/2.12d8ee16.chunk.js",
+    "static/js/2.12d8ee16.chunk.js.map": "/proctice-one/static/js/2.12d8ee16.chunk.js.map",
+    "index.html": "/proctice-one/index.html",
+    "precache-manifest.97a5ab7dfa07e148f45b666871fca568.js": "/proctice-one/precache-manifest.97a5ab7dfa07e148f45b666871fca568.js",
+    "service-worker.js": "/proctice-one/service-worker.js",
+    "static/css/main.f8ef9dbc.chunk.css.map": "/proctice-one/static/css/main.f8ef9dbc.chunk.css.map",
+    "static/js/2.12d8ee16.chunk.js.LICENSE.txt": "/proctice-one/static/js/2.12d8ee16.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d084b5d.js",
+    "static/js/2.12d8ee16.chunk.js",
+    "static/css/main.f8ef9dbc.chunk.css",
+    "static/js/main.8083cb45.chunk.js"
+  ]
+}
